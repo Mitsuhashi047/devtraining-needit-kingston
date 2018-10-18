@@ -29,9 +29,9 @@
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Sepalator</sys_name>
         <sys_overrides/>
-        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_package display_value="NeedIt_bk" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
-        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope display_value="NeedIt_bk">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_app_module_fc57e004db556300eea62a9a489619cc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-10-17 01:26:31</sys_updated_on>
